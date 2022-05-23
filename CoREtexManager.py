@@ -143,6 +143,21 @@ def viewAllBooks():
     enter = input("Press enter to continue...")
 
 
+"""
+viewBorrowedBooks() Displays a list of all the books that are currently being borrowed by someone
+"""
+def viewBorrowedBooks():
+    print('\n')
+
+    count = 0
+    for b in books:
+        if b["Rented "]!=None:
+            count+=1
+            printBook(b)
+
+    print("\n",count,"result(s) found.")
+    enter = input("Press enter to continue...")
+
 
 def main():
     parseJSON('coretexBooks.json')
@@ -150,7 +165,7 @@ def main():
     running = 1
 
     while running == 1:
-        print("\n===========================================================================================\n\n1 - Search for a book\n2 - View books by genre\n3 - View all books\n4 - Exit\n")
+        print("\n===========================================================================================\n\n1 - Search for a book\n2 - View books by genre\n3 - View borrowed books\n4 - View all books\n5 - Exit\n")
 
         x = input("What would you like to do today? ")
         if(x.strip()=='1'):
@@ -158,8 +173,10 @@ def main():
         if(x.strip()=='2'):
             showGenre()
         if(x.strip()=='3'):
-            viewAllBooks()
+            viewBorrowedBooks()
         if(x.strip()=='4'):
+            viewAllBooks()
+        if(x.strip()=='5'):
             running = 0
         # else:
         #     print("\nInvalid input. Pleese enter a number from 1 - 4\n")
