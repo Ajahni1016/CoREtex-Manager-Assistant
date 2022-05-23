@@ -32,7 +32,7 @@ Selecting option 5 will display a list of all the books that CoRE owns.
 ![all](https://user-images.githubusercontent.com/42648282/169920682-f4394cb0-6984-45f6-b59c-47ed83fe7c17.gif)
 
 ## GUI Version
-I have also been playing around with Android Studio to create a mobile version of this assistant. Currently, it isn't fully functional and only the frontend is complete. The code for this can be viewed [here]() and [here]().
+I have also been playing around with Android Studio to create a mobile version of this assistant. Currently, it isn't fully functional and only the frontend is complete. Most of the code for this can be viewed [here](https://github.com/Ajahni1016/CoREtex-Manager-Assistant/blob/main/CoRELibraryManager/app/src/main/java/com/example/corelibrarymanager/FullscreenActivity.java) and [here](https://github.com/Ajahni1016/CoREtex-Manager-Assistant/blob/main/CoRELibraryManager/app/src/main/res/layout/activity_fullscreen.xml).
 
 ![image](https://user-images.githubusercontent.com/42648282/169921132-ad5b16a4-b322-4a99-bd59-2c5b8438577d.png)
 
