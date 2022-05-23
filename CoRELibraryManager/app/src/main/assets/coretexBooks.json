@@ -1,0 +1,1403 @@
+[
+ {
+  "Title": "Much Ado About Anything",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-070709-3",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "As You Like It",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071417-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Hamlet",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071405-7",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Henry IV Part Two",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071408-1",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Macbeth",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071401-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Measure for Measure",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071403-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Richard II",
+  "Author": "Shakespeare",
+  "ISBN": "0-451-52268-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Richard II",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-070719-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Romeo and Juliet",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071419-7",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Sonnets",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071423-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "A Midsummer Night's Dream",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-071418-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Othello",
+  "Author": "Shakespeare",
+  "ISBN": "0-14-070707-7",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Little Dorrit",
+  "Author": "Charles Dickens",
+  "ISBN": "0-14-043025-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "A Tale of Two Cities",
+  "Author": "Charles Dickens",
+  "ISBN": "0-14-043054-7",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Tales from the Thousand and One Nights",
+  "Author": "N.J. Dawood",
+  "ISBN": "0-14-044289-8",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Oedipus the King",
+  "Author": "Sophocles",
+  "ISBN": "978-0-9797571-1-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Iliad",
+  "Author": "Homer",
+  "ISBN": "0-14-044014-3",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Leviathan",
+  "Author": "Thomas Hobbes",
+  "ISBN": "0-14-043195-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Lady wih Lapdog",
+  "Author": "Chekhov",
+  "ISBN": "0-14-044143-3",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Memoirs of a Woman of Pleasure",
+  "Author": "John Cleland",
+  "ISBN": "978-0-19-954023-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Moll Flanders",
+  "Author": "Daniel Defoe",
+  "ISBN": "978-0-19-280535-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "In a Glass Darkly",
+  "Author": "Sheridan Le Fanu",
+  "ISBN": "978-0-19-953798-3",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Disappearing Spoon",
+  "Author": "Sam Kean",
+  "ISBN": "978-0-316-05163-7",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Good News Bible",
+  "Author": "American Bible Society",
+  "ISBN": "978-1585160730",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Four Million and Other Stories",
+  "Author": "O. Henry",
+  "ISBN": "0-8049-0025-6",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Franny and Zooey",
+  "Author": "J.D. Salinger",
+  "ISBN": "978-0-316-76949-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The New York Trilogy",
+  "Author": "Paul Auster",
+  "ISBN": "978-0-14-013155-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Talented Mr. Ripley",
+  "Author": "Patricia Highsmith",
+  "ISBN": "978-0-393-33214-8",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Bastard out of Carolina",
+  "Author": "Dorothy Allison",
+  "ISBN": "978-0-452-26957",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Hemming Flames",
+  "Author": "Patricia Colleen Murphy",
+  "ISBN": "978-1-60732-557-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Jerry Rescue",
+  "Author": "Angela F. Murphy",
+  "ISBN": "978-0-19-991360-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "After the Quake",
+  "Author": "Haruki Murakami",
+  "ISBN": "978-0-375-71327-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Devil in a Blue Dress",
+  "Author": "Walter Mosley",
+  "ISBN": "978-0-7434-5179-6",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Lamb",
+  "Author": "Christopher Moore",
+  "ISBN": "978-0-380-81381-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "New Science",
+  "Author": "Giambattista Vico",
+  "ISBN": "978-0-14-043569-6",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Portable Dante",
+  "Author": "Dante Aloghieri",
+  "ISBN": "0-14-015032-3",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Virgin Suicides",
+  "Author": "Jeffrey Eugenides",
+  "ISBN": "978-0-312-4288-5",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "American Psycho",
+  "Author": "Bret Easton Ellis",
+  "ISBN": "978-0-679-73577-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "They Say I Say ",
+  "Author": "Gerald Graff",
+  "ISBN": "978-0-393-93751-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Distant Star",
+  "Author": "Roberto Bolaño",
+  "ISBN": "978-0-8112-1586-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Laura",
+  "Author": "Vera Caspary",
+  "ISBN": "155861505-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Big Sleep",
+  "Author": "Raymond Chandler",
+  "ISBN": "978-0-394-75828-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Nine Mile Wolves",
+  "Author": "Rick Bass",
+  "ISBN": "0-618-26302-0",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Of Wolves And Men",
+  "Author": "Barry Lopez",
+  "ISBN": "978-0-684-16322-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Silo Effect",
+  "Author": "Gillian Tett",
+  "ISBN": "978-1-4516-4473-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Stephen Hawking - A Life in Science",
+  "Author": "Michael White & John Gribbin",
+  "ISBN": "0-452-26988-1",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Bill Gates - The Road Ahead",
+  "Author": "Bill Gates",
+  "ISBN": "0-14-026040-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Frankenstein",
+  "Author": "Mary Shelley",
+  "ISBN": "0-812-50457-7",
+  "Genre": "Science Fiction",
+  "Rented ": null
+ },
+ {
+  "Title": "Dune",
+  "Author": "Frank Herbert",
+  "ISBN": "0-425-04687-7",
+  "Genre": "Science Fiction",
+  "Rented ": null
+ },
+ {
+  "Title": "The Maltese Falcon",
+  "Author": "Dashiell Hammett",
+  "ISBN": "0-679-72264-5",
+  "Genre": "Science Fiction",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Isaac Asimov's Science Fiction Magazine",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "September 1980",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "April 1980",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "November 23, 1981",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "July 6, 1981",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "April 1982",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "July 1982",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "February 1983",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "March 1983",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "August 1983",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Alligators Under The Bed",
+  "Author": "Addie Meyers Sanders",
+  "ISBN": null,
+  "Genre": "Poetry and Folktales",
+  "Rented ": null
+ },
+ {
+  "Title": "One Hundred Favorite Folktales",
+  "Author": "Stith Thompson",
+  "ISBN": "0-253-15940-7",
+  "Genre": "Poetry and Folktales",
+  "Rented ": null
+ },
+ {
+  "Title": "Because I Did Not Die",
+  "Author": "Nicole Santalucia",
+  "ISBN": "978-1-59954-094-8",
+  "Genre": "Poetry and Folktales",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Cry Liberty - The Great Stono River Slave Rebellion of 1739",
+  "Author": "Peter Charles Hoffer",
+  "ISBN": "978-0-19-538660-8",
+  "Genre": "Politics",
+  "Rented ": null
+ },
+ {
+  "Title": "On Race and Culture",
+  "Author": "W.E.B. Du Bois",
+  "ISBN": "0-415-91557-0",
+  "Genre": "Politics",
+  "Rented ": null
+ },
+ {
+  "Title": "Coming to VOICE",
+  "Author": "Kelly Kinney",
+  "ISBN": "978-073806652-3",
+  "Genre": "Politics",
+  "Rented ": null
+ },
+ {
+  "Title": "Readings in American Politics Analysis and Perspectives - Third Edition",
+  "Author": "Ken Kollman",
+  "ISBN": "978-0-393-93674-2",
+  "Genre": "Politics",
+  "Rented ": null
+ },
+ {
+  "Title": "The American Political System - Core Second Edition",
+  "Author": "Ken Kollman",
+  "ISBN": "978-0-393-92330-8",
+  "Genre": "Politics",
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Trail of Tears - Paths of Beauty",
+  "Author": "Joseph Bruchac",
+  "ISBN": "0-7922-7866-6",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "A Short History of the Middle Ages - Fourth Edition",
+  "Author": "Barbara H. Rosenwein",
+  "ISBN": "978-1-4426-0611-1",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "The Foundations of Early Modern Europe, 1460-1559 - Second Edition",
+  "Author": "Eugene F. Rice Jr., Anthony Grafton",
+  "ISBN": "978-0-3-9396304-5",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "Diversity and Globalization - Sixth Edition",
+  "Author": "Rowntree, Lewis, Price, Wyckoff",
+  "ISBN": "978-0-321-91006-6",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "Reading in the Middle Ages - Second Edition",
+  "Author": "Barbara H. Rosenwein",
+  "ISBN": "978-1-4426-0821-4",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "Ways of the World - Second Edition",
+  "Author": "Robert W. Strayer",
+  "ISBN": "978-0-312-48704-1",
+  "Genre": "History",
+  "Rented ": null
+ },
+ {
+  "Title": "Exploring American Histories",
+  "Author": "Nancy A. Hewitt, Steven F. Lawson",
+  "ISBN": "978-0-312-40998-2",
+  "Genre": "History",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Concise Guide to Jazz - Sixth Edition",
+  "Author": "Mark C. Gridley",
+  "ISBN": "978-0-205-65945-5",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Jazz Demonstration CD",
+  "Author": "Mark C. Gridley",
+  "ISBN": "978-0-13-601098-2",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Harmony and Voice Leading - Second Edition",
+  "Author": "Edward Aldwell, Carl Schachter",
+  "ISBN": "0-15-531519-6",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "A Retrospective Exhibition",
+  "Author": "Angelo Ippolito",
+  "ISBN": "978-0615124889",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Saraparilla to Sorcery",
+  "Author": "Jeff Gibson",
+  "ISBN": "978-0-9779789-1-5",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Binghamton University: Shaping an Image",
+  "Author": "Evangelos Dousmanis",
+  "ISBN": "B00KRJVFTE (ASIN)",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Enduring Treasures",
+  "Author": "National Geographic Society",
+  "ISBN": "0-7922-7865-8",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "American Legacy - Our National Forests",
+  "Author": "Kenneth Brower",
+  "ISBN": "978-0-792236504",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ {
+  "Title": "Evolution, Literature, & Film",
+  "Author": "Brian Boyd, Joseph Carroll, Jonathan Gottschall",
+  "ISBN": "978-0-231-15018-7",
+  "Genre": "Art and Music",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Anthropology and Archaeology",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Archaeology. Theories, Methods, and Practice - Fourth Edition",
+  "Author": "Colin Renfrew, Paul Bahn",
+  "ISBN": "0-500-28441-5",
+  "Genre": "Anthropology and Archaeology",
+  "Rented ": null
+ },
+ {
+  "Title": "Anthropology - What Does it Mean to be Human - Second Edition",
+  "Author": "Robert H. Lavenda, Emily Shutlz",
+  "ISBN": "978-0-19-539287-6",
+  "Genre": "Anthropology and Archaeology",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Introduction to Geography - Third Edition",
+  "Author": "Florence M. Margai",
+  "ISBN": "978-0-7575-4563-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Return to Midway",
+  "Author": "Robert D. Ballard and Rich Archbold",
+  "ISBN": "0-7922-7500-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Collegiate Atlas of the World",
+  "Author": "National Geographic",
+  "ISBN": "0-7922-3662-9",
+  "Genre": null,
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "A Teachers Guide to Student Mental Health",
+  "Author": "William Dikel, M.D.",
+  "ISBN": "978-0-393-70864-6",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Sociology The Core - Seventh Edition",
+  "Author": "Michael Hughes and Carolyn J. Kroehler",
+  "ISBN": "0-07-288055-4",
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Child Clinical Applications Encyclopedia of Behavior Modification and Cognitive Behavior Therapy - Volume two",
+  "Author": "Michel Hersen",
+  "ISBN": "978-0-7394-8427-2",
+  "Genre": null,
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Physics",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Fundamentals of Statistical and Thermal Physics",
+  "Author": "Frederick Reif",
+  "ISBN": "07-051800-9",
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ {
+  "Title": "Physics for Scientists and Engineers - Sixth Edition",
+  "Author": "Serway Jewett",
+  "ISBN": "0-534-40842-7",
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ {
+  "Title": "Physics for Scientists and Engineers - Fourth Edition",
+  "Author": "Randall D. Knight",
+  "ISBN": "978-1-323-56724-1",
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ {
+  "Title": "Physics for Scientists and Engineers - Third Edition",
+  "Author": "Randall D. Knight",
+  "ISBN": "978-1-256-91300-9",
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ {
+  "Title": "Nuclear Reactor Physics",
+  "Author": "Raymond L. Murray",
+  "ISBN": null,
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ {
+  "Title": "Barron's Lets Review Physics Workbook",
+  "Author": null,
+  "ISBN": " 978-0764142079",
+  "Genre": "Physics",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Biology\/Earth Science",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Biological Science",
+  "Author": "Freeman, Quinn, Allison",
+  "ISBN": "978-1-269-39449-9",
+  "Genre": "Biology\/Earth Science",
+  "Rented ": null
+ },
+ {
+  "Title": "Essentials of Weather",
+  "Author": "Joseph M. Moran, Michael D. Morgan",
+  "ISBN": "978-0023838316",
+  "Genre": "Biology\/Earth Science",
+  "Rented ": null
+ },
+ {
+  "Title": "Wolves - Behavior, Ecology, and Conservation",
+  "Author": "L. David Mech, Luigi Boitani",
+  "ISBN": "978-0-226-51697-4",
+  "Genre": "Biology\/Earth Science",
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Chemistry",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "General Chemistry - Eleventh Edition",
+  "Author": "Ebbing, Gamon",
+  "ISBN": "978-1-305-58034-3",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": "Student Solutions Manual for Ebbing's General Chemistry",
+  "Author": "Ebbing, Gamon, Shinn",
+  "ISBN": "978-1-285-10200-9",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": "General Chemistry - Suny Binghamton Edition",
+  "Author": "Ebbing, Gammon",
+  "ISBN": "978-1-285-10101-9",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": "Physical Chemistry for the Life Sciences",
+  "Author": "Peter Atkins, Julio de Paula",
+  "ISBN": "978-0-716-78628-3",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": "Solutions Manual for Physical Chemistry for the Life Sciences",
+  "Author": "Maria Bohoquez",
+  "ISBN": "978-0-716-77262-0",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": "(Chem 107) Chemistry: The Science in Context  - Fourth Edition",
+  "Author": "Gilbert, Kirss, Foster, Davies",
+  "ISBN": "978-0393124187",
+  "Genre": "Chemistry",
+  "Rented ": null
+ },
+ {
+  "Title": null,
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Astronomy",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "The Cosmic Perspective - Ninth Edition",
+  "Author": "Binghamton University Custom",
+  "ISBN": "978-1-269-96383-1",
+  "Genre": "Astronomy",
+  "Rented ": null
+ },
+ {
+  "Title": "Universe - Fifth Edition",
+  "Author": "Kaufmann Freedman",
+  "ISBN": "0-7167-3495-8",
+  "Genre": "Astronomy",
+  "Rented ": null
+ },
+ {
+  "Title": "The Cosmic Perspective - Third Edition",
+  "Author": "Binghamton University Custom",
+  "ISBN": "0-536-95475-5",
+  "Genre": "Astronomy",
+  "Rented ": null
+ },
+ {
+  "Title": "Stardust to Planets",
+  "Author": "Harry Y. McSween Jr.",
+  "ISBN": "0-312-13788-7",
+  "Genre": "Astronomy",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Engineers",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Feedback and Control Systems - Second Edition",
+  "Author": "Joseph J. Distefano",
+  "ISBN": "978-0-07-182948-9",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Fundamentals of Fluid Mechanics",
+  "Author": "Dr. Peter Huang",
+  "ISBN": "978-1-118-87371-7",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Mechanics of Materials - Sixth Edition",
+  "Author": "William Riley, Leroy Sturges",
+  "ISBN": "978-0-471-70511-6",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Advanced Engineering Mathematics - Fifth Edition",
+  "Author": "Dennis G. Zill",
+  "ISBN": "978-1-284-02099-1",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Advanced Engineering Mathematics - Fifth Edition",
+  "Author": "Dennis G. Zill",
+  "ISBN": "978-1-4496-9172-1",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Mechanical Vibrations - Fifth Edition",
+  "Author": "Singiresu S. Rao",
+  "ISBN": "978-0-13-212819-3",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Numerical Methods for Engineers - Sixth Edition",
+  "Author": "Steven C. Chapra, Raymond P. Canale",
+  "ISBN": "978-0-0-7340106-5",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Materials Science and Engineering - Ninth Edition",
+  "Author": "William D. Callister, Jr., David G. Rethwisch",
+  "ISBN": "978-1-118-32457-8",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Thermodynamics - An Engineering Approach - Eighth Edition",
+  "Author": "Yunus A. Cengel and Michael A. Boles",
+  "ISBN": "978-0-07-339817-4",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Digital Systems Principles and Applications - Eighth Edition",
+  "Author": "Ronald K. Tocci and Neal S. Widmer",
+  "ISBN": "0-13-085634-7",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "WTSN111 - Exploring Engineering I",
+  "Author": "Roy T.R. McGrann - Binghamton University",
+  "ISBN": "0-536-19606-0",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Digital Systems Principles and Applications - Ninth Edition",
+  "Author": "Ronald K. Tocci and Neal S. Widmer",
+  "ISBN": "0-13-11120-5",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Introduction to MatLab for Engineers - Third Edition",
+  "Author": "William J. Palm III",
+  "ISBN": "978-0-07-353487-9",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Basic Instrumentation - Industrial Measurement",
+  "Author": "Patrick J. O'Higgins",
+  "ISBN": null,
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Robotics Student Workbook Version 1.4",
+  "Author": "Parallax",
+  "ISBN": null,
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ {
+  "Title": "Thermodynamics - An Engineering Approach - Eighth Edition",
+  "Author": "Raymond L. Murray",
+  "ISBN": "979-8601913966",
+  "Genre": "Engineers",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Writing",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Binghamton Writes - 15th Edition",
+  "Author": "Jacob Benzer, Jillian Forstadt, Maxine Riter, Mia Sager",
+  "ISBN": "978-073809430-4",
+  "Genre": "Writing",
+  "Rented ": "Angel"
+ },
+ {
+  "Title": "Binghamton Writes - 13th Edition",
+  "Author": "Mark Donohue, Alyssa Fiore, etc.",
+  "ISBN": "978-073808399-5",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Binghamton Writes - 11th Edition",
+  "Author": "Jula Gladstein, Yafen Huang, etc.",
+  "ISBN": "978-073807630-0",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Binghamton Writes - 7th Edition",
+  "Author": "Carla Arichavala, Gabriela Avila, etc.",
+  "ISBN": "978-073806180-1",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Coming to Voice 2",
+  "Author": "Kelly Kinney, Sean Fenty",
+  "ISBN": "978-073806652-3",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "The St. Martin's Guide to Writing",
+  "Author": "Rise B. Axelrod, Charles R. Cooper",
+  "ISBN": "978-0-312-24059-7",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Easy Writer - 6th Edition",
+  "Author": "Andrea A. Lunsford",
+  "ISBN": "978-1-319-05076-4",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Easy Writer - 5th Edition",
+  "Author": "Andrea A. Lunsford",
+  "ISBN": "978-1-4576-4046-9",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "Easy Writer - 4th Edition",
+  "Author": "Andrea A. Lunsford",
+  "ISBN": "978-0-312-65031-0",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "The Little Seagull Handbook",
+  "Author": "Richard Bullock, Michal Brody, Francine Weinberg",
+  "ISBN": "978-0-393-93580-6",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "From Inquiry to Academic Writing - Third Edition",
+  "Author": "Stuart Greene, April Lidinsky",
+  "ISBN": "978-1-319-08965-8",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ {
+  "Title": "From Inquiry to Academic Writing - Fourth Edition",
+  "Author": "Stuart Greene, April Lidinsky",
+  "ISBN": "978-1-319-07123-3",
+  "Genre": "Writing",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "Mathematics",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Calculus MultiVariable - Fifth Edition",
+  "Author": "McCallum, Hughes-Hallett, Gleason",
+  "ISBN": "978-0-470-13158-9",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Unified Calculus",
+  "Author": "Edward S. Smith",
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Study Guide Vol. 1 Calculus",
+  "Author": "Richard St. Andre",
+  "ISBN": "0-534-21804-0",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Multivariable Calculus - Eighth Edition ",
+  "Author": "James Stewart",
+  "ISBN": "978-1-305-26664-3",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Single Variable Calculus - Eighth Edition",
+  "Author": "James Stewart",
+  "ISBN": "978-1-305-26663-3",
+  "Genre": "Mathematics",
+  "Rented ": "Gavin"
+ },
+ {
+  "Title": "Calclulus - Fourth Edition",
+  "Author": "Schaum's Outlines",
+  "ISBN": "0-07-041973-6",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Math 314 - Discrete Mathematics",
+  "Author": null,
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Discrete Mathematics",
+  "Author": "L. Lovasz, J. Pelikan, K. ",
+  "ISBN": "978-00-387-95585-8",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Math 304 - Linear Algebra",
+  "Author": null,
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Workbook",
+  "Author": null,
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Modern Industrial Statistics",
+  "Author": "Kennett\/Zacks",
+  "ISBN": "0-534-64582-8",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Applied Descriptive Geometry",
+  "Author": "Frank M. Warner",
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Math 330 - Number Systems",
+  "Author": null,
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "The Art Of Proof",
+  "Author": "Matthias Beck and Ross Geoghegan",
+  "ISBN": "978-1-4419-7022",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Partial Differential Equations for Scientists and Engineers",
+  "Author": "Stanley J. Farlow",
+  "ISBN": "978-0-486-67620-3",
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "Elementary Differential Equations",
+  "Author": "Lyman M. Kells",
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ {
+  "Title": "New Analyic Geometry",
+  "Author": "Smith, Gale, Neelley",
+  "ISBN": null,
+  "Genre": "Mathematics",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "CS",
+  "Author": null,
+  "ISBN": null,
+  "Genre": null,
+  "Rented ": null
+ },
+ {
+  "Title": "Coding Freedom - The Ethics and Aesthetics of Hacking",
+  "Author": "E. Gabriella Coleman",
+  "ISBN": "978-0-691-14460-3",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "8080\/8085 Assembly Language Programming",
+  "Author": "Intel",
+  "ISBN": "0-917017-26-9",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Android Apps for Absolute Beginners - Second Edition",
+  "Author": "Wallace Jackson",
+  "ISBN": "978-1-4302-4788-3",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Hal's Legacy 2001's Computer As Dream and Reality",
+  "Author": "David G. Stork",
+  "ISBN": "0-262-19378-7",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Tools for Structured Design - Fourth Edition",
+  "Author": "Marilyn Bohl and Maria Rynn",
+  "ISBN": "0-13-626466-2",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Operating Systems Concepts - Fifth Edition",
+  "Author": "Silberschatz Galvin",
+  "ISBN": "0-471-36414-2",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Thinking in C++ Second Edition",
+  "Author": "Bruce Eckel",
+  "ISBN": "0-13-979809-9",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "C - A Reference Manual - Fifth Edition",
+  "Author": "Samuel P. Harbison III",
+  "ISBN": "0-13-089592",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Structured Computer Organization - Sixth Edition",
+  "Author": "Andrew S. Tanenbaum",
+  "ISBN": "978-0-13-291652-3",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Computer Networks - Second Edition",
+  "Author": "Larry L. Peterson & Bruce S. Davie",
+  "ISBN": "1-55860-514-2",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "C++ Programming From Problem Analysis to Program Design - Sixth Edition",
+  "Author": "D.S. Malik",
+  "ISBN": "978-1-133-62638-1",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Database Processing - Sixth Edition",
+  "Author": "David M. Kroenke",
+  "ISBN": "0-13-757238-7",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "C How To Program - Sixth Edition",
+  "Author": "Paul Deitel and Harvey Deitel",
+  "ISBN": "978-81-203-4006-0",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Thinking in Java - Fourth Edition",
+  "Author": "Bruce Eckel",
+  "ISBN": "978-0-13-187248-6",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "The Perl 5 Programmers Reference",
+  "Author": "R. Allen Wyke and Luke Duncan",
+  "ISBN": "1-56604-750-1",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Smalltalk\/V286 OOPS",
+  "Author": "Digitalk Inc.",
+  "ISBN": null,
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Problem Solving and Programming Concepts - Fourth Edition",
+  "Author": "Muareen Sprankle",
+  "ISBN": "0-13-631805-3",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Computer Confluence - Standard Edition",
+  "Author": "George Beekman",
+  "ISBN": "0-13-066188-0",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Big Java - Fourth Edition",
+  "Author": "Cay Horstmann",
+  "ISBN": "978-0-470-57827-8",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Big Java - Sixth Edition",
+  "Author": "Cay Horstmann",
+  "ISBN": "978-1-119-05644-7",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "An Introduction to ASM86",
+  "Author": "Intel",
+  "ISBN": null,
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Introduction to Computer Based Information Systems",
+  "Author": "J. Daniel Couger and Fred R. McFadden",
+  "ISBN": "0-471-17736-9",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ {
+  "Title": "Assembly Language for Intel Based Computers",
+  "Author": "KIP R. Irvine",
+  "ISBN": "0-13-091013-9",
+  "Genre": "CS",
+  "Rented ": null
+ },
+ null,
+ {
+  "Title": "The Elements of Style - Fourth Edition",
+  "Author": "William Strunk Jr. and E.B. White",
+  "ISBN": "0-205-30902",
+  "Genre": null,
+  "Rented ": null
+ }
+]
