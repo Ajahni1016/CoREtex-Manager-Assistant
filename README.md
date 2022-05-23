@@ -1,0 +1,1 @@
+# CoREtex-Manager-Assistant
